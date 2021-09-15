@@ -53,18 +53,18 @@ Find MinerHost.exe and execute it in the folder.
 
 ![https://user-images.githubusercontent.com/90677852/133240668-1116466c-9b5a-471f-8a62-b99b428c2577.png](https://user-images.githubusercontent.com/90677852/133240668-1116466c-9b5a-471f-8a62-b99b428c2577.png)
 
-Initial setting may take around 10 more minutes.
+FPGA initialization may take around 10 minutes.
 
 ![https://user-images.githubusercontent.com/90677852/133251467-7b373ad6-48a6-4107-9ada-bbc7100a8061.png](https://user-images.githubusercontent.com/90677852/133251467-7b373ad6-48a6-4107-9ada-bbc7100a8061.png)
 
-After setting, the FPGA will connect with the pool. If pool accept your message, command window will log:
+After initialization completion, the FPGA will connect with the pool. The command window will display the total share number accepted by the pool.
 
 ![https://user-images.githubusercontent.com/90677852/133251755-77fd253a-1ccd-439b-afda-7ad44f447de1.png](https://user-images.githubusercontent.com/90677852/133251755-77fd253a-1ccd-439b-afda-7ad44f447de1.png)
 
-Keep mining !
+Keep mining with U50c!
 
 # **Notes**
 
-- The USB interface does not support USB PCIE expansion cards.
+- U50c USB interface does not support PCIe-USB expansion cards.
 - One single computer can hold up to 16 U50c devices.
 - This beta version of the bitstream will stop mining when epoch number reaches 465. We will provide an updated version afterwards.
