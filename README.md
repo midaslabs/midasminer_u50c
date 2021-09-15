@@ -9,7 +9,7 @@
 
 # **Introduction**
 
-FPGA bitstream is a file that contains the programming information for the FPGA chip. midasminer_u50c is our specific bitstream for FPGA to behave as a miner. U50c with HBM can mine Ethereum faster because HBM allows the accelerators to perform memory-hard compute tasks much faster than existing technology. The instructions are as follows.
+FPGA bitstream is a file that contains the programming information for the FPGA chip. midasminer_u50c is our specific bitstream for FPGA to behave as a miner. U50c with HBM can mine Ethereum faster because HBM allows the accelerators to perform memory-hard compute tasks much faster than existing technology.
 
 # **Features**
 
