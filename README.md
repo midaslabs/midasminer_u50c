@@ -14,7 +14,7 @@ FPGA bitstream is a file that contains the programming information for the FPGA 
 # **Features**
 
 1. The hashrate could be up to 54 MH/s.
-2. Automatic temperature control: Mining process will automatically be disabled when temperature is over 75c and will be restarted to mine when temperature is under 60c.
+2. Mining process will automatically be disabled when temperature is over 75c and will be restarted to mine when temperature is under 60c.
 
 # **Installation**
 
