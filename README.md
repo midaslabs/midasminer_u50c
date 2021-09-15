@@ -1,0 +1,1 @@
+# midasminer_u50c
