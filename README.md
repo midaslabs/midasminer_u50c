@@ -1,15 +1,10 @@
 # midasminer_u50c
 
 ![https://img.shields.io/github/downloads/midaslabs/midasminer_u50c/total.svg](https://img.shields.io/github/downloads/midaslabs/midasminer_u50c/total.svg)
-
 ![https://img.shields.io/github/release/midaslabs/midasminer_u50c/all.svg](https://img.shields.io/github/release/midaslabs/midasminer_u50c/all.svg)
-
 ![https://img.shields.io/github/release-date-pre/midaslabs/midasminer_u50c.svg](https://img.shields.io/github/release-date-pre/midaslabs/midasminer_u50c.svg)
-
 ![https://img.shields.io/github/license/midaslabs/midasminer_u50c.svg](https://img.shields.io/github/license/midaslabs/midasminer_u50c.svg)
-
 ![https://img.shields.io/github/stars/midaslabs/midasminer_u50c.svg](https://img.shields.io/github/stars/midaslabs/midasminer_u50c.svg)
-
 ![https://img.shields.io/github/forks/midaslabs/midasminer_u50c.svg](https://img.shields.io/github/forks/midaslabs/midasminer_u50c.svg)
 
 # **Introduction**
