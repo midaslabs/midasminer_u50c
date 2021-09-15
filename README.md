@@ -65,6 +65,6 @@ Keep mining !
 
 # **Notes**
 
-- USB PCIE expansion cards will not work normally.
+- USB PCIE expansion cards are not supported.
 - One single computer only holds up to 16 U50c devices for now.
 - This beta version of the bitstream will stop mining when epoch number reaches 465. We will provide an updated version afterwards.
