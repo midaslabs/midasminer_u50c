@@ -13,7 +13,7 @@ FPGA bitstream is a file that contains the programming information for the FPGA 
 
 # **Features**
 
-1. The hashrate could be up to 54 MH/s.
+1. The hashrate could be up to 56 MH/s.
 2. Mining process will automatically be disabled when temperature is over 75c and will be restarted to mine when temperature is under 60c.
 
 # **Installation**
@@ -68,3 +68,11 @@ Keep mining with U50c!
 - U50c USB interface does not support PCIe-USB expansion cards.
 - One single computer can hold up to 16 U50c devices.
 - This beta version of the bitstream will stop mining when epoch number reaches 465. We will provide an updated version afterwards.
+
+# Change Log
+
+[v1.1.0]
+
+1. Support FPGA clock frequency auto-adjustment function to boost Hashrate up to 56 MH/s
+2. Support Linux-based (ubuntu 18.04 or higher) systems
+3. Reduce 5-12% power consumption (depended on FPGA clock frequency) compared to the previous release [v1.0.0] Initial version
