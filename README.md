@@ -28,7 +28,7 @@ The only thing you need to install is FTDI driver, which is a software driver fo
 
 In the folder, find MinerHost.exe-conf.json and open it.
 
-![https://user-images.githubusercontent.com/90677852/133218862-63592208-6b17-4115-a651-8f3884ebfbe4.png](https://user-images.githubusercontent.com/90677852/133218862-63592208-6b17-4115-a651-8f3884ebfbe4.png)
+![https://github.com/Andreschao1999/midasminer_u50c/blob/patch-1/config_setting.png](https://github.com/Andreschao1999/midasminer_u50c/blob/patch-1/config_setting.png)
 
 What you must change:
 
