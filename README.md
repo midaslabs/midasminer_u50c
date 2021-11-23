@@ -26,26 +26,27 @@ The only thing you need to install is FTDI driver, which is a software driver fo
 
 # **Config Setting**
 
-In the folder MinerHost, find MinerHost.exe-conf.json and open it.
+In the folder, find MinerHost.exe-conf.json and open it.
 
-![https://user-images.githubusercontent.com/90677852/133218862-63592208-6b17-4115-a651-8f3884ebfbe4.png](https://user-images.githubusercontent.com/90677852/133218862-63592208-6b17-4115-a651-8f3884ebfbe4.png)
+![https://github.com/Andreschao1999/midasminer_u50c/blob/patch-1/config_setting.png](https://github.com/Andreschao1999/midasminer_u50c/blob/patch-1/config_setting.png)
 
 What you must change:
 
-1. You need to change line_2’s URL to the f2pool server closest to your region.
+1. You need to change line_3’s URL to the f2pool server closest to your region.
 
 For example:    "url": "stratum+tcp://eth.f2pool.com:6688",
 SSL was not supported currently.
 
-1. You need to change line_3’s User_Wallet to your own wallet.
+2. You need to change line_4’s User_Wallet to your own wallet.
 
-For example:    "user": "0xabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd",
+For example:    "user": "0xabcdabcdabcdabcdabcdabcdabcdabcdabcdabcd",
 
 What you can change:
 
-1. You can change line_4’s f001 to decide your worker’s name.
-2. You can change line_5 to decide whether to create a log file in folder log or not.
-3. You can change line_7 to decide which bitstream you want to use.
+1. You can change line_5 to decide which bitstream you want to use.
+2. You can change line_6 to decide your worker’s name.
+3. You can change line_7 to change hashrate.
+4. You can change line_8 to decide whether to create a log file in folder log or not.
 
 # **Start Mining**
 
