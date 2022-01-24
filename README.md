@@ -92,22 +92,3 @@ Keep mining with U50c!
    
    voltage range : 0.7v ~ 0.84v
    
-4. Corresponding bitstream file could be found in the following bitstream download link
-
-# Bistream Download Link
-
-<table style="width:600px">
-  
-<tr>
-  <td>v1.2.0</td>
-  <td align="center" style="width:100px" >
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_u50c_ab01_2203.zip" download="ml_eth_u50c_ab01_2203.zip">U50C</a>
-  </td>
-  <td align="center" style="width:100px">
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_th55_ab01_2203.zip" download="ml_eth_th55_ab01_2203.zip">TH55</a>
-  </td>
-  <td align="center" style="width:100px">
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_th53_ab01_2203.zip" download="ml_eth_th53_ab01_2203.zip">TH53</a>
-  </td>
-</tr>
-</table>
