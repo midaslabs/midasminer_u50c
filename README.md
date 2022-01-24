@@ -92,7 +92,7 @@ Keep mining with U50c!
    
    voltage range : 0.7v ~ 0.84v
    
-4. Bitstream download link could be found in Bistream section
+4. Corresponding bitstream file could be found in the following bitstream download link
 
 # Bistream Download Link
 
