@@ -101,13 +101,13 @@ Keep mining with U50c!
 <tr>
   <td>v1.2.0</td>
   <td align="center" style="width:100px" >
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_u50c_ab01_2203.zip">U50C</a>
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_u50c_ab01_2203.zip" download="ml_eth_u50c_ab01_2203.zip">U50C</a>
   </td>
   <td align="center" style="width:100px">
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_th55_ab01_2203.zip">TH55</a>
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_th55_ab01_2203.zip" download="ml_eth_th55_ab01_2203.zip">TH55</a>
   </td>
   <td align="center" style="width:100px">
-    <a href="http://www.midaslabs.net/bitstream/ml_eth_th53_ab01_2203.zip">TH53</a>
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_th53_ab01_2203.zip" download="ml_eth_th53_ab01_2203.zip">TH53</a>
   </td>
 </tr>
 </table>
