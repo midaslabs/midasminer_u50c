@@ -77,3 +77,37 @@ Keep mining with U50c!
 1. Support FPGA clock frequency auto-adjustment function to boost Hashrate up to 56 MH/s
 2. Support Linux-based (ubuntu 18.04 or higher) systems
 3. Reduce 5-12% power consumption (depended on FPGA clock frequency) compared to the previous release [v1.0.0] Initial version
+
+[v1.2.0]
+1. Support TH55 / TH53 FPGA card.
+2. Support voltage boost (Only on TH55 / TH53). Hashrate could be accelerated up to 59-60MHz.
+
+   Add<br>
+   {<br>
+       ...,<br>
+       "adjust_voltage":true,<br>
+       "voltage":0.78<br>
+   }<br>
+   in your config.json
+   
+   voltage range : 0.7v ~ 0.84v
+   
+4. Bitstream download link could be found in Bistream section
+
+# Bistream Download Link
+
+<table style="width:600px">
+  
+<tr>
+  <td>v1.2.0</td>
+  <td align="center" style="width:100px" >
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_u50c_ab01_2203.zip">U50C</a>
+  </td>
+  <td align="center" style="width:100px">
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_th55_ab01_2203.zip">TH55</a>
+  </td>
+  <td align="center" style="width:100px">
+    <a href="http://www.midaslabs.net/bitstream/ml_eth_th53_ab01_2203.zip">TH53</a>
+  </td>
+</tr>
+</table>
