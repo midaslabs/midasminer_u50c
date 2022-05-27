@@ -91,4 +91,24 @@ Keep mining with U50c!
    in your config.json
    
    voltage range : 0.7v ~ 0.84v
-   
+ 
+[v1.2.1]
+Bugfix
+1. Device might stop mining when dag change.
+
+[v1.2.2]
+Bugfix
+1. The device might stop mining unexpectedly.
+
+[v1.2.3]
+Bugfix
+1. Increase ethash hashrate up to 66M both U50C and TH53.
+
+[v1.3.0]
+
+Dual mining supports for eth and ton on U50C and TH53 fpga card.
+
+1.eth hashrate could be up to 67 MH .
+2.ton hashrate could be up to 930 MH.(only support tonwhales stratum protocol)
+
+
