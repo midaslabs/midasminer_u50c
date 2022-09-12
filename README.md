@@ -111,4 +111,8 @@ Dual mining supports for eth and ton on U50C and TH53 fpga card.
 1.eth hashrate could be up to 67 MH .
 2.ton hashrate could be up to 930 MH.(only support tonwhales stratum protocol)
 
+[v1.3.1]
+Increase speed for dag building.
 
+[v1.3.2]
+Support ETC mining.
